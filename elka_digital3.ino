@@ -60,5 +60,6 @@ void Fading() {
 }
 
 void loop() {
-  blinking();
+  //blinking();
+  //Fading();
 }
